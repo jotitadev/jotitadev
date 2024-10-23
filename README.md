@@ -19,7 +19,7 @@ const Argentinean = {
         databases: ["mongo", "MySql", "sqlite", "SQL"],
     },
 
-    ffunFact: "excuses only work for you"
+    funFact: "excuses only work for you"
 };
 
 
