@@ -4,20 +4,29 @@
 
 ```javascript
 const Argentinean = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "php"],
+    askMeAbout: ["tech", "crossfit", "weightlifting"],
+    technologies: {
+        mobileApp: ["IOS App"],
+        frontEnd: {
+            css: ["materialize", "vuetify", "bootstrap"]
+        },
+        backEnd: {
+            python: ["flask"]
+        },
+        devOps: ["AWS", "Azure", "Oracle Cloud", "Huawei", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite", "SQL"],
+    },
 
-pronouns: "he",
-  code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [Docker, Kubernetes],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  technological communities: {
-  speaker: "Spanish",
-                        
-                      },
- challenge: "I'm doing the #100DaysOfCode challenge focused on react and typing"
-}
+    ffunFact: "excuses only work for you"
+};
 
 
 ```
+
+
+
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jotitadev&show_icons=true&theme=gotham" alt="jotitadev" />
