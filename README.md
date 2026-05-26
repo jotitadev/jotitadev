@@ -29,18 +29,6 @@ const Jota = {
         ],
         partners: ["AWS", "Azure", "Cisco", "Ubiquiti", "VMware", "Proxmox", "M365"],
     },
-
-    sideProjects: {
-        dely: {
-            description: "SaaS de distribución de carnes para el mercado argentino",
-            stack: ["multi-tenant", "Mercado Pago OAuth", "webhooks"],
-            currentFocus: "modelo de datos para cuarteo bovino (merma, trazabilidad SENASA)",
-        },
-        slotter: {
-            description: "marketplace de turnos compartidos (peluquerías, servicios)",
-            currentFocus: "rebrand + dominio .ar disponible",
-            status: "buscando nombre con socio",
-        },
     },
 
     technologies: {
