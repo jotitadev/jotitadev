@@ -29,7 +29,6 @@ const Jota = {
         ],
         partners: ["AWS", "Azure", "Cisco", "Ubiquiti", "VMware", "Proxmox", "M365"],
     },
-    },
 
     technologies: {
         devOps: [
