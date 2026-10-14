@@ -1,61 +1,64 @@
-# Hi, I'm Jota 👋🏾 
+# Hi, I'm Jota 👋🏾
 
-<img src="https://scontent.fepa14-1.fna.fbcdn.net/v/t1.6435-9/89438016_10216235182048048_8257161084251668480_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e982cd&_nc_ohc=eFrqBwphspoQ7kNvgGpZY-i&_nc_ht=scontent.fepa14-1.fna&_nc_gid=A255hQ5xFoefP1um2gRpG6R&oh=00_AYDazXbfeiX0s2x_jn4vmmkCW2vqQOTag6gNfZO4ORTuPQ&oe=6740FF72" alt="banner that says Jota">
+<img src="https://avatars.githubusercontent.com/u/139649225" alt="Jota" width="120" align="right" />
+
+DevOps engineer from Buenos Aires 🇦🇷. I build and run infrastructure for SaaS products, and I like getting my hands dirty in open source.
 
 ```javascript
 const Jota = {
     pronouns: "He" | "Him",
     location: "Ituzaingó, Buenos Aires 🇦🇷",
-    code: ["Javascript", "Typescript", "Python", "PHP"],
-    askMeAbout: ["tech", "crossfit", "weightlifting", "SaaS", "startups", "infra"],
+    code: ["TypeScript", "JavaScript", "Python", "PHP", "Bash"],
+    askMeAbout: ["infra", "Kubernetes", "cloud costs", "SaaS", "startups", "crossfit", "weightlifting"],
 
     dayJob: {
         role: "DevOps Engineer",
         company: "Pilot Solution",
-        type: "relación de dependencia",
     },
 
     consulting: {
         company: "Redbird IT 🐦",
         url: "https://redbird.com.ar",
-        description: "Consultora IT en Buenos Aires — cloud, infra, seguridad y automatización",
+        description: "IT consultancy in Buenos Aires: cloud, infra, security and automation",
         services: [
-            "Cloud & optimización de costos (AWS / Azure)",
-            "Ciberseguridad & hardening",
-            "Redes, LAN/WAN, telefonía IP",
-            "Soporte 24/7 & mesa de ayuda",
-            "Automatización de procesos",
-            "Consultoría en IA",
+            "Cloud & cost optimization (AWS / Azure)",
+            "Security & hardening",
+            "Networking, LAN/WAN, VoIP",
+            "24/7 support & helpdesk",
+            "Process automation",
+            "AI consulting",
         ],
         partners: ["AWS", "Azure", "Cisco", "Ubiquiti", "VMware", "Proxmox", "M365"],
     },
 
+    openSource: {
+        project: "AnyPS5",
+        url: "https://github.com/boykopovar/AnyPS5",
+        what: "Testing pull requests on Apple silicon (Rosetta 2, Mach-O, Apple GPU / MoltenVK) for the macOS port",
+    },
+
     technologies: {
-        devOps: [
-            "AWS", "Azure", "Oracle Cloud", "Huawei Cloud",
-            "Terraform", "Docker 🐳", "Nginx", "Route53"
-        ],
+        cloud: ["AWS", "Azure", "Oracle Cloud", "Huawei Cloud", "Linode"],
+        iac: ["Terraform", "Terragrunt"],
+        containers: ["Docker 🐳", "Kubernetes", "k3s", "Helm", "Argo CD"],
+        ciCd: ["GitHub Actions", "Azure DevOps", "AWX / Ansible"],
+        observability: ["Grafana", "Loki", "Prometheus"],
+        identity: ["Keycloak", "Entra ID", "TOTP / MFA"],
+        web: ["Nginx", "Cloudflare", "Route53"],
         mobile: ["iOS", "React Native", "Expo"],
-        backEnd: {
-            python: ["Flask"],
-            node: ["Express"],
-        },
-        frontEnd: {
-            css: ["Materialize", "Vuetify", "Bootstrap"],
-        },
-        databases: ["MongoDB", "MySQL", "SQLite", "SQL"],
-        auth: ["Mercado Pago OAuth", "TOTP / MFA"],
-        networking: ["Cisco", "Ubiquiti", "TP-Link", "VoIP / Telefonía IP"],
+        backEnd: ["Next.js", "Node / Express", "Python / Flask", "gRPC"],
+        databases: ["PostgreSQL", "SQL Server", "MySQL", "MongoDB", "SQLite"],
+        messaging: ["Kafka", "Azure Service Bus"],
+        networking: ["Cisco", "Ubiquiti", "MikroTik", "VoIP"],
         virtualization: ["VMware", "Proxmox"],
     },
 
+    homelab: ["MikroTik", "Home Assistant", "Plex", "local LLMs with Ollama"],
+
     funFact: "excuses only work for you",
 };
-
 ```
-
-
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jotitadev&show_icons=true&theme=gotham&show=reviews,prs_merged" alt="jotitadev" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jotitadev&show_icons=true&theme=gotham&show=reviews,prs_merged" alt="jotitadev" /></p>
