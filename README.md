@@ -1,7 +1,5 @@
 # Hi, I'm Jota 👋🏾
 
-<img src="https://avatars.githubusercontent.com/u/139649225" alt="Jota" width="120" align="right" />
-
 DevOps engineer from Buenos Aires 🇦🇷. I build and run infrastructure for SaaS products, and I like getting my hands dirty in open source.
 
 ```javascript
